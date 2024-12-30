@@ -1,0 +1,20 @@
+John Smith, 1234567890, P001, 2.5, 30, 20, 15, Delivered  
+Jane Doe, 9876543210, P002, 1.2, 25, 18, 12, In Transit  
+Emily Johnson, 1122334455, P003, 3.7, 35, 22, 17, Delivered  
+Michael Brown, 6677889900, P004, 5.0, 40, 25, 20, Pending  
+Sarah Williams, 3344556677, P005, 0.8, 20, 15, 10, Returned  
+David Miller, 7788990011, P006, 2.0, 28, 18, 14, Delivered  
+Laura Martinez, 9900112233, P007, 4.5, 42, 30, 22, In Transit  
+Robert Davis, 5566778899, P008, 3.2, 33, 24, 19, Delivered  
+Olivia Taylor, 2233445566, P009, 1.8, 26, 20, 15, Delivered  
+James Anderson, 8899001122, P010, 2.6, 30, 22, 18, Pending  
+Mary Thomas, 6677881234, P011, 5.5, 45, 35, 25, Delivered  
+Chris Moore, 7788993344, P012, 3.0, 32, 25, 18, In Transit  
+Patricia Wilson, 4455667788, P013, 4.0, 38, 28, 20, Pending  
+Andrew Garcia, 5544332211, P014, 2.3, 29, 21, 16, Returned  
+Sophia Martinez, 9900776655, P015, 1.5, 24, 18, 12, Delivered  
+Daniel Robinson, 6677884455, P016, 2.8, 31, 23, 17, In Transit  
+Elizabeth Walker, 3344558899, P017, 3.9, 36, 26, 19, Delivered  
+Joshua Hall, 7788995566, P018, 1.1, 22, 17, 13, Returned  
+Isabella Young, 1234005566, P019, 5.2, 43, 34, 24, In Transit  
+Christopher Allen, 2233447788, P020, 3.6, 34, 27, 18, Delivered

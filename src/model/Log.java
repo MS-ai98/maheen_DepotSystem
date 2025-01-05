@@ -1,5 +1,8 @@
 package model;
 
+/**
+ * A singleton log to record important events.
+ */
 public class Log {
     private static Log instance;
     private StringBuffer logBuffer;

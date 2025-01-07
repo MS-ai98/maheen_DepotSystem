@@ -1,6 +1,7 @@
 package View;
 
 import java.util.HashMap;
+
 import java.util.Map;
 
 import model.Parcel;
@@ -8,6 +9,8 @@ import model.Parcel;
 import javax.swing.*;
 import java.awt.*;
 import java.util.Map;
+import java.util.List;
+
 
 /**
  * Displays parcel details in the center panel.
@@ -49,4 +52,12 @@ public class ParcelView extends JPanel {
             return parcels; // Return the map of parcels
         }
     }
+    
+    public void displayParcels(List<Parcel> parcelList) {
+        parcelTextArea.setText(""); // Clear existing data
+        for (Parcel parcel : parcelList) {
+            parcelTextArea.append(parcel.toString() + "\n");
+        }
+    }
+    
 }

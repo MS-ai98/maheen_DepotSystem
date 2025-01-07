@@ -28,6 +28,10 @@ public class ParcelMap {
     public Map<String, Parcel> getParcelMap() {
         return parcelMap;
     }
+    
+    public Map<String, Parcel> getAllParcels() {
+        return this.parcelMap; // Assuming parcelMap is a field in ParcelMap
+    }
 
     /**
      * Loads parcels from a file.

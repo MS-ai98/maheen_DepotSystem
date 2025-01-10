@@ -12,6 +12,7 @@ public class Parcel {
     private int width;
     private int height;
     private boolean isProcessed;
+    private double discount;
 
     // Constructor with isProcessed
     public Parcel(String parcelId, int daysInDepot, double weight, int length, int width, int height, boolean isProcessed) {
@@ -64,6 +65,14 @@ public class Parcel {
 
     public void setProcessed(boolean processed) {
         isProcessed = processed;
+    }
+    
+    public void setDiscount(double discount) {
+        this.discount = discount;
+    }
+
+    public double getDiscount() {
+        return discount;
     }
 
     @Override

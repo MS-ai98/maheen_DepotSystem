@@ -25,3 +25,4 @@ Aly Sai,1,D001
 Danny Sr,3,D001
 Maheen,1,D003
 Kin Po,1,D004
+olo,1,P200
